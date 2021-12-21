@@ -1,5 +1,5 @@
 # v2ray-websocket-docker
-V2ray server for ubuntu docker ( for centos replace apt with yum)
+V2ray server for ubuntu docker ( for centos replace apt with yum). By fb.com/thuong.hai.581
 
 Supported architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, s390x
 
