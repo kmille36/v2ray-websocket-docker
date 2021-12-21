@@ -6,13 +6,13 @@ Supported architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, s390x
 - Install Docker and pull v2ray
 ```console 
 sudo apt update
+sudo ufw allow 80
 sudo apt install -y docker docker.io
-sudo docker pull teddysun/v2ray
-sudo mkdir -p /etc/v2ray
 ```
 
 - Create v2ray websocket config.json
-```console 
+```console
+sudo mkdir -p /etc/v2ray
 sudo cat > /etc/v2ray/config.json <<EOF
 {
   "inbounds": [
