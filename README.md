@@ -3,7 +3,7 @@ V2ray server for ubuntu docker ( for centos replace apt with yum)
 
 Supported architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, s390x
 
-- Install Docker and pull v2ray
+- Install Docker and allow port 80
 ```console 
 sudo apt update
 sudo ufw allow 80
