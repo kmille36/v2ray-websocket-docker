@@ -3,7 +3,7 @@ V2ray server for ubuntu docker ( for centos replace apt with yum). By fb.com/thu
 
 Supported architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, s390x
 
-![image](https://user-images.githubusercontent.com/58414694/146949059-57746722-c849-4eee-8163-f1dd7fef317a.png)
+![image](https://user-images.githubusercontent.com/58414694/146949161-06563cd3-f498-4722-8ab3-54f6afb76650.png)
 
 
 - Install Docker and allow port 80
